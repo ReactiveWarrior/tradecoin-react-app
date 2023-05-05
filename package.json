@@ -1,6 +1,6 @@
 {
     "name": "tradecoin-react-app",
-    "page": "https://Avichez.github.io/tradecoin-react-app",
+    "homepage": "https://avichez.github.io/tradecoin-react-app/",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -50,6 +50,4 @@
         "tailwindcss": "^3.3.2"
     }
 }
-
-
 
