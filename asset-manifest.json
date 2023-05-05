@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tradecoin-react-app/static/css/main.c79ee611.css",
+    "main.js": "/tradecoin-react-app/static/js/main.57132ba3.js",
+    "index.html": "/tradecoin-react-app/index.html",
+    "main.c79ee611.css.map": "/tradecoin-react-app/static/css/main.c79ee611.css.map",
+    "main.57132ba3.js.map": "/tradecoin-react-app/static/js/main.57132ba3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c79ee611.css",
+    "static/js/main.57132ba3.js"
+  ]
+}
